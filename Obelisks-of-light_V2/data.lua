@@ -1,0 +1,10 @@
+path = "__Obelisks-of-light_V2__"
+require("__Obelisks-of-light_V2__.prototypes.entity.beams")
+require("__Obelisks-of-light_V2__.prototypes.entity.projectiles")
+require("__Obelisks-of-light_V2__.prototypes.categories.ammo-category")
+require("__Obelisks-of-light_V2__.prototypes.items")
+require("__Obelisks-of-light_V2__.prototypes.recipes")
+require("__Obelisks-of-light_V2__.prototypes.obelisks")
+require("__Obelisks-of-light_V2__.prototypes.technology")
+require("__Obelisks-of-light_V2__.prototypes.sounds")
+require("__Obelisks-of-light_V2__.prototypes.custom-input")

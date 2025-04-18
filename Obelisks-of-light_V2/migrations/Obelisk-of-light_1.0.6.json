@@ -1,0 +1,30 @@
+{
+    "item":
+    [
+        ["obelisk-left", "obelisk-of-light"],
+        ["obelisk-right", "obelisk-of-light"],
+        ["obelisk-nw", "obelisk-of-light"],
+        ["obelisk-ne", "obelisk-of-light"],
+        ["obelisk-se", "obelisk-of-light"],
+        ["obelisk-sw", "obelisk-of-light"]
+    ],
+    "recipe":
+    [
+        ["obelisk-left", "obelisk-of-light"],
+        ["obelisk-right", "obelisk-of-light"],
+        ["obelisk-nw", "obelisk-of-light"],
+        ["obelisk-ne", "obelisk-of-light"],
+        ["obelisk-se", "obelisk-of-light"],
+        ["obelisk-sw", "obelisk-of-light"]
+    ],
+    "technology":
+    [
+        ["Obelisk-weapons-damage-I", "Obelisk-weapons-damage-1"],
+        ["Obelisk-weapons-damage-II", "Obelisk-weapons-damage-2"],
+        ["Obelisk-weapons-damage-III", "Obelisk-weapons-damage-3"],
+        ["Obelisk-weapons-damage-IV", "Obelisk-weapons-damage-4"],
+        ["Obelisk-weapons-damage-V", "Obelisk-weapons-damage-5"],
+        ["Obelisk-weapons-damage-VI", "Obelisk-weapons-damage-6"],
+        ["Obelisk-weapons-damage-VII", "Obelisk-weapons-damage-7"]
+    ]
+}
