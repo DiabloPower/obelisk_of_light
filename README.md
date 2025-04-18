@@ -17,16 +17,16 @@ The **Obelisks of Light** mod brings the iconic Nod Obelisk from Command & Conqu
 Take a look at some of the highlights of this mod:
 
 ### The Obelisk of Light
-![the four Obelisks](Obelisks-of-light/graphics/screenshots/Screenshot_four.png)  
+![the four Obelisks](Obelisks-of-light_V2/graphics/screenshots/Screenshot_four.png)  
 *The iconic Obelisk of Light in all four buildable directions.*
 
-![Obelisks and their dirty work](Obelisks-of-light/graphics/screenshots/Screenshot_dirty_work.png)  
+![Obelisks and their dirty work](Obelisks-of-light_V2/graphics/screenshots/Screenshot_dirty_work.png)  
 *Dirty deeds have to be done!*
 
-![Obelisks Science](Obelisks-of-light/graphics/screenshots/Screenshot_science.png)  
+![Obelisks Science](Obelisks-of-light_V2/graphics/screenshots/Screenshot_science.png)  
 *The Science behind the Obelisks.*
 
-![Obelisks stats](Obelisks-of-light/graphics/screenshots/Screenshot_stats.png)  
+![Obelisks stats](Obelisks-of-light_V2/graphics/screenshots/Screenshot_stats.png)  
 *some stat... after a few upgrades...*
 
 ## Credits
