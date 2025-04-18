@@ -1,5 +1,10 @@
 NOD Obelisk of Light
 ---------------------------------------------------------------------------------------------------
+Version: 2.0.1
+  Changes:
+    - some fixes to the Techtree (>Level 6 shoting speed upgrade did Damage instead of speed)
+    - a bit of Damage Output balancing
+---------------------------------------------------------------------------------------------------
 Version: 2.0.0
   Changes:
     - port to Factorio 2.0 & SpaceAge

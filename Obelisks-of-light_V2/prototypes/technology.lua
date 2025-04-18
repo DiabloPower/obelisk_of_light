@@ -223,7 +223,7 @@ data:extend{
 			{
 				type = "ammo-damage",
 				ammo_category = "green-laser",
-				modifier = 0.10
+				modifier = 0.7
 			},
 			{
 				type = "ammo-damage",
@@ -234,7 +234,7 @@ data:extend{
 		prerequisites = {"Obelisk-weapons-damage-6", "space-science-pack"},
 		unit =
 		{
-			count_formula = "2^(14-7)*8",
+			count_formula = "2^(L-7)*1024",
 			ingredients =
 			{
 				{"automation-science-pack", 1},
@@ -404,13 +404,8 @@ data:extend{
 		effects =
 		{
 			{
-				type = "ammo-damage",
+				type = "gun-speed",
 				ammo_category = "green-laser",
-				modifier = 0.7
-			},
-			{
-				type = "ammo-damage",
-				ammo_category = "beam",
 				modifier = 0.6
 			}
 		},
@@ -439,20 +434,15 @@ data:extend{
 		effects =
 		{
 			{
-				type = "ammo-damage",
+				type = "gun-speed",
 				ammo_category = "green-laser",
 				modifier = 0.10
-			},
-			{
-				type = "ammo-damage",
-				ammo_category = "beam",
-				modifier = 0.6
 			}
 		},
 		prerequisites = {"Obelisk-Shooting-Speed-6", "space-science-pack"},
 		unit =
 		{
-			count_formula = "2^(14-7)*8",
+			count_formula = "2^(L-7)*1024",
 			ingredients =
 			{
 				{"automation-science-pack", 1},
