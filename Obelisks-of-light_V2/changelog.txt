@@ -1,5 +1,9 @@
 NOD Obelisk of Light
 ---------------------------------------------------------------------------------------------------
+Version: 2.0.2
+  Changes:
+    - German translation added
+---------------------------------------------------------------------------------------------------
 Version: 2.0.1
   Changes:
     - some fixes to the Techtree (>Level 6 shoting speed upgrade did Damage instead of speed)
