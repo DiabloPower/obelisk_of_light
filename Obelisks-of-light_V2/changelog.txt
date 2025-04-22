@@ -1,8 +1,13 @@
-NOD Obelisk of Light
+---------------------------------------------------------------------------------------------------
+Version: 2.0.3
+  Changes:
+    - Changed Cooldown from 240 to 340, to bring it in line with the Soviet-Tesla-Coils
+    - Changed Range from 38 to 40
+    - Changed Energy Consumtion from 800kJ to 1MJ
 ---------------------------------------------------------------------------------------------------
 Version: 2.0.2
   Changes:
-    - German translation added
+    - Added German translation.
 ---------------------------------------------------------------------------------------------------
 Version: 2.0.1
   Changes:
@@ -11,75 +16,81 @@ Version: 2.0.1
 ---------------------------------------------------------------------------------------------------
 Version: 2.0.0
   Changes:
-    - port to Factorio 2.0 & SpaceAge
+    - Ported to Factorio 2.0 & SpaceAge.
 ---------------------------------------------------------------------------------------------------
 Version: 1.1.3
   Bugfixes:
-    - changed base sprite draw as glow to false, this was causing the obelisks to remain visible
+    - Changed base sprite draw as glow to false. This was causing the obelisks to remain visible
       behind aircraft.
 ---------------------------------------------------------------------------------------------------
 Version: 1.1.2
   Changes:
-    - should be compatible with hero turrets version >= 1.1.20 (when updated)
+    - Should be compatible with hero turrets version >= 1.1.20 (when updated).
   Bugfixes:
-    - apply health from item to new-placed turret (no free repairs)
-    - added range indicator when placing turrets
+    - Applied health from item to newly placed turret (no free repairs).
+    - Added range indicator when placing turrets.
 ---------------------------------------------------------------------------------------------------
 Version: 1.1.1
   Changes:
-    - preparations for hero turret compatibility (honk honk)
-    - base Obelisk item places turret, not EEI
+    - Preparations for hero turret compatibility (honk honk).
+    - Base obelisk item places turret, not EEI.
 ---------------------------------------------------------------------------------------------------
 Version: 1.1.0
   Changes:
-    - Changed cooldown of the obelisks reduced from 105 to 20
-    - Reduced damage modifier from 3 down to 1.5 due to increased fire rate
-    - Slower charge up animation 
-    - Removed redundant obelisks 
+    - Reduced cooldown of the obelisks from 105 to 20.
+    - Reduced damage modifier from 3 down to 1.5 due to increased fire rate.
+    - Slower charge-up animation.
+    - Removed redundant obelisks.
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.9
   Changes:
-    - fixed issue where rotation would fully heal the obelisks
+    - Fixed issue where rotation would fully heal the obelisks.
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.8
   Changes:
-    - Fixed infinite research cost was 15 now 1024.
+    - Fixed infinite research cost (was 15, now 1024).
     - Removed black background from icons.
-    - Base damage modifier reduced by 50%.
-    - Batteries added to crafting recipe.
-    - Added speed research. 
+    - Reduced base damage modifier by 50%.
+    - Added batteries to crafting recipe.
+    - Added speed research.
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.7
   Changes:
-    - fixed low res crashing due to bad naming changed swshbase to swbasesh.png
+    - Fixed low-res crashing due to bad naming (changed swshbase to swbasesh.png).
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.6
   Changes:
-    - Co creator of Factorio and conquer has kindly helped me out and made it possible for rotation I am extremely greatfull thank you randomflyingtaco.
-    - This means there is only one item to craft / place and rotation is handled after placement one drawback you cannot see distance until placed.  
+    - Co-creator of Factorio and Conquer kindly helped me out and made rotation possible. I am
+      extremely grateful. Thank you, randomflyingtaco.
+    - This means there is only one item to craft/place, and rotation is handled after placement.
+      One drawback: you cannot see distance until placed.
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.5
   Changes:
-    - Added 4 new animated obelisks based off the tiberium wars version plus new icons. 
+    - Added 4 new animated obelisks based off the Tiberium Wars version plus new icons.
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.4
   Changes:
-    - Added damage increase research. 
+    - Added damage increase research.
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.3
   Changes:
     - Fixed firing.ogg naming error.
-    - Tweaked obelisk sound and dps (Tested 5 obelisks vs 5 laser turrets to make sure the resaerch is worth it.
+    - Tweaked obelisk sound and DPS (tested 5 obelisks vs. 5 laser turrets to make sure the research
+      is worth it).
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.2
   Changes:
-    - Fixed low res sprite sizes causing game to crash.
+    - Fixed low-res sprite sizes causing game to crash.
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.1
   Changes:
-    - New shooting sound. please feedback on the change, is it annoying? there are 3 .ogg in the sound dir, if you know how have a play and change the audio on the beam.
-    - Updated the description for the research technology, missing on release.
-    - You can no longer make these from the start, something else I missed on release, this will not effect any current saved game.
+    - Added new shooting sound. Please provide feedback on the change. Is it annoying? There are
+      3 .ogg files in the sound directory. If you know how, have a play and change the audio on the
+      beam.
+    - Updated the description for the research technology (missing on release).
+    - You can no longer make these from the start (something else I missed on release). This will
+      not affect any current saved game.
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.0
   Changes:
