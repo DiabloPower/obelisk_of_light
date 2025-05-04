@@ -1,4 +1,16 @@
 ---------------------------------------------------------------------------------------------------
+Version: 2.1.0
+  Added:
+    - Integration with Factorio & Conquer
+    - New Mod Setting to enable/disable integration
+    - If Factorio & Conquer integration is enabled:
+      - The Obelisk inherits stats from the Factorio & Conquer Obelisk
+      - The Obelisk research is tied to Tiberium Military 2, just like in Factorio & Conquer
+      - The Obelisk recipe matches the Factorio & Conquer version
+      - The Obelisk appears in the same build tab as other Factorio & Conquer buildings
+      - All research from this mod is disabled (no speed or damage upgrades, except for Laser & Tiberium Research)
+    - German & English translation for mod settings
+---------------------------------------------------------------------------------------------------
 Version: 2.0.3
   Changes:
     - Changed Cooldown from 240 to 340, to bring it in line with the Soviet-Tesla-Coils
@@ -6,8 +18,8 @@ Version: 2.0.3
     - Changed Energy Consumtion from 800kJ to 1MJ
 ---------------------------------------------------------------------------------------------------
 Version: 2.0.2
-  Changes:
-    - Added German translation.
+  Added:
+    - German translation
 ---------------------------------------------------------------------------------------------------
 Version: 2.0.1
   Changes:
