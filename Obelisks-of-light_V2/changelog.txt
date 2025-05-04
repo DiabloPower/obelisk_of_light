@@ -1,4 +1,9 @@
 ---------------------------------------------------------------------------------------------------
+Version: 2.1.2
+  Added:
+    - missing optional pependency on Factorio-Tiberium, thanks to Lily~ (a.k.a. IonShield)
+    - if Factorio-Tiberium is detected the Tiberium & Conquer setting is selected by default
+---------------------------------------------------------------------------------------------------
 Version: 2.1.1
   Added:
     - Quality
