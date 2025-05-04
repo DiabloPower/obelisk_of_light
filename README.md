@@ -37,7 +37,10 @@ Take a look at some of the highlights of this mod:
 
 ## Credits
 A big thank you to [SacredAnarchy](https://mods.factorio.com/user/Sacredanarchy) for the original Textures of the mod!
+
 And to [Gouitsu](https://mods.factorio.com/user/Gouitsu) for the original mod!
+
+A Thank you goes to [Lily~ (a.k.a. IonShield)](https://mods.factorio.com/user/IonShield) for pointing out the missing optional dependency of Factorio & Conquer
 
 ## Compatibility
 - **Factorio Version**: 2.0
