@@ -95,7 +95,17 @@ function on_new_entity(event)
 	end
 end
 
-script.on_event(defines.events.on_built_entity, on_new_entity)
 script.on_event(defines.events.on_robot_built_entity, on_new_entity)
 script.on_event(defines.events.script_raised_built, on_new_entity)
 script.on_event(defines.events.script_raised_revive, on_new_entity)
+
+script.on_event(defines.events.on_built_entity, function(event)
+    local entity = event.created_entity
+    if entity and entity.valid and entity.name:match("^obelisk") then
+        local item = event.stack
+
+        if item and item.valid_for_read and item.quality then
+            entity.quality = item.quality
+        end
+    end
+end)
