@@ -1,12 +1,13 @@
 {
 	"name": "Obelisks-of-light_V2",
-	"version": "2.1.0",
+	"version": "2.1.1",
 	"title": "Obelisks of Light",
 	"author": "DiabloPower, originaly: Gouitsu, Graphics from SacredAnarchy",
 	"dependencies": [ 
 		"base >= 2.0",
 		"? space-age >= 2.0",
-    	"? quality >= 2.0" ],
+    	"? quality >= 2.0",
+		"? Factorio-Tiberium" ],
 	"description": "Nod Obelisk of Light from Command & Conquer - Tiberian Wars. Ported from Factorio 1.1.0 to Factorio 2.0 by DiabloPower.",
 	"factorio_version": "2.0"
 }

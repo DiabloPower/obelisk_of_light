@@ -34,12 +34,14 @@ local function cycle_turrets(event, run_mode)
 			local damage_dealt = entity.damage_dealt
 			local new_name = next_turret(entity_name, run_mode)
 			local energy = entity.energy
+			local quality = entity.quality
 			entity.destroy()
 			local new_turret = surface.create_entity{
 				name = new_name,
 				force = force,
 				position = position,
 				create_build_effect_smoke = false,
+				quality = quality
 				--raise_built = true,
 			}
 			new_turret.health = health
@@ -82,6 +84,7 @@ function on_new_entity(event)
 
 		local name = string.sub(new_entity.name, 1, -9) --remove "of-light"
 		local diagonal = direction_to_diagonal[new_entity.direction]
+		local quality = new_entity.quality
 		new_entity.destroy()
 		new_entity = surface.create_entity{
 			name = name .. diagonal,
@@ -90,6 +93,7 @@ function on_new_entity(event)
 			player = last_user,
 			item = event.stack,
 			raise_built = true,
+			quality = quality
 		}
 		new_entity.health = health
 	end

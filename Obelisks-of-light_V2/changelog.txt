@@ -1,4 +1,12 @@
 ---------------------------------------------------------------------------------------------------
+Version: 2.1.1
+Date: 2025-05-04
+  Changes:
+    - Added missing optional pependency on Factorio-Tiberium
+    - Added support for quality turrets
+    - Tiberium & Conquer setting is now selected by default if Factorio-Tiberium is detected
+    - Warm regards from Lily~ (a.k.a. IonShield)
+---------------------------------------------------------------------------------------------------
 Version: 2.1.0
   Added:
     - Integration with Factorio & Conquer
